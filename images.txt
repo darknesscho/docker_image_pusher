@@ -2,11 +2,6 @@
 # 一般：示例xhofe/alist:latest
 # 支持指定架构：--platform=linux/arm64 xiaoyaliu/alist
 
-# linuxserver/homeassistant
-# 1activegeek/airconnect
-# linuxserver/calibre-web:nightly
-# ddsderek/easyimage:latest
-# ghcr.io/blakeblackshear/frigate:stable
-# ghcr.io/immich-app/immich-server:release
-# ghcr.io/immich-app/immich-machine-learning:release
-6053537/portainer-ce:latest
+ghcr.io/blakeblackshear/frigate:stable
+ghcr.io/immich-app/immich-server:release
+ghcr.io/immich-app/immich-machine-learning:release
