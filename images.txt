@@ -6,4 +6,5 @@
 # ghcr.io/immich-app/immich-server:release
 # ghcr.io/immich-app/immich-machine-learning:release
 # eclipse-mosquitto
-emqx/emqx:5.8.4
+# emqx/emqx:5.8.4
+vaultwarden/server:latest
