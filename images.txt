@@ -15,4 +15,5 @@
 
 # ghcr.io/blakeblackshear/frigate:stable
 # deluan/navidrome:latest
-jc21/nginx-proxy-manager:latest
+# jc21/nginx-proxy-manager:latest
+makedie/proxmox_ve:latest
