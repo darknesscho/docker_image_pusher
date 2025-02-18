@@ -16,17 +16,20 @@ docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab
 
 # deluan/navidrome:latest
 # jc21/nginx-proxy-manager:latest
-makedie/proxmox_ve:latest
-m.daocloud.io/docker.io/hanxi/xiaomusic:latest
-vaultwarden/server:latest
-dzhuang/tinymediamanager:v3.1.16
-6053537/portainer-ce:latest
-xhongc/music_tag_web:latest
-eclipse-mosquitto
-linuxserver/homeassistant:latest
-ghcr.io/blakeblackshear/frigate:stable
-ddsderek/easyimage:latest
-linuxserver/webtop:ubuntu-kde
-linuxserver/calibre-web:nightly
-yangchuansheng/anki-sync-server:latest
-xhofe/alist:latest
+
+
+# makedie/proxmox_ve:latest
+# m.daocloud.io/docker.io/hanxi/xiaomusic:latest
+# vaultwarden/server:latest
+# dzhuang/tinymediamanager:v3.1.16
+# 6053537/portainer-ce:latest
+# xhongc/music_tag_web:latest
+# eclipse-mosquitto
+# linuxserver/homeassistant:latest
+# ghcr.io/blakeblackshear/frigate:stable
+# ddsderek/easyimage:latest
+# linuxserver/webtop:ubuntu-kde
+# linuxserver/calibre-web:nightly
+# yangchuansheng/anki-sync-server:latest
+# xhofe/alist:latest
+vdsm/virtual-dsm:latest
